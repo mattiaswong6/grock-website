@@ -1,0 +1,10 @@
+{
+  "description": "Create a vibrant one-page website for university students, showcasing club events, stories, and contact information with bold red and black design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
